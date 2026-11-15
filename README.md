@@ -4,6 +4,9 @@ All the mod builds were tested on home PC with next species:
 Components:
   CPU - i7-6700
   GPU - GTX 1070 Ti
-  RAM (dedicated) - 8 Gb
+  RAM (dedicated) - 8 Gb.
 Graphics settings:
+  Render & simulation distance - 12 chunks
+  Quality - Fancy
+  Also Sodium was installed
   
